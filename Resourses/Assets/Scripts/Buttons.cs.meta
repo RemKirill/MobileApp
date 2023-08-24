@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b806f8ddb78f64fb5969c2e8f85b78f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - layer_blue: {fileID: 21300000, guid: eddb816e35c3246a1bc93c75dabb66a6, type: 3}
+  - layer_red: {fileID: 21300000, guid: d65d9a358accc47d18a63057ba1447e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
